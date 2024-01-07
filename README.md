@@ -1,2 +1,2 @@
 # open_cv
-Open cv simple tasks (detect pill, etc)
+Open cv simple tasks (detect pills, etc)
