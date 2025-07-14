@@ -1,10 +1,12 @@
-OpenCV simple tasks without deep-learning to gain intuition about:
+OpenCV tasks to gain intuition about:
+* Pretrained Faster-RCNN to detect chess pieces
 * OTSU Thresholding
 * HSV Color Space
 * SLIC Superpixels
 * Hough Transform
 * Canny Edge Detector
 * Morphological Operations
+* SIFT
 * etc
 
 ![Sample Image](images/chess.png)
