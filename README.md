@@ -16,6 +16,6 @@ OpenCV simple tasks without deep-learning to gain intuition about:
   <img src="images/find.png" width="48%">
 </p>
 ![Sample Image](images/discovery.png)
-![Sample Image](images/hough1.png)
+![Sample Image](images/image.png)
 ![Sample Image](images/optical_flow.png)
 
